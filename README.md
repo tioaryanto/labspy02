@@ -35,6 +35,7 @@ if harga_1>harga_2 and harga_1<harga_3:
  
  dan ini flowchartnya
  
- ![Screenshot (26)](https://user-images.githubusercontent.com/57034810/67917735-8da7df00-fbcc-11e9-8a91-b0105ec260c5.png)
+ ![Screenshot (31)](https://user-images.githubusercontent.com/57034810/67917830-d1024d80-fbcc-11e9-9d71-586816697be1.png)
+
  
  selesai terimaksih telah membaca semoga bermanfaat....
